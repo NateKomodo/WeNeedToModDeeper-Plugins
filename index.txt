@@ -1,4 +1,4 @@
-#This text file is used by the mod manager to get plugins, information about them, and download links, so more can be added without pushing an installer updated
+#This text file is used by the mod manager to get plugins, information about them, and download links, so more can be added without pushing an installer update
 #Name&Desc&Download&Prefix
 Essentials&A plugin that adds various controls, functions and chat commands to the server&https://github.com/NateKomodo/WeNeedToModDeeper-Plugins/raw/master/Essentials.dll&/
 CivShopPlus&A plugin that allows you to re-roll shop loot&https://github.com/NateKomodo/WeNeedToModDeeper-Plugins/raw/master/CivShopPlus.dll&+
