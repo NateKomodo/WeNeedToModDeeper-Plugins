@@ -3,6 +3,8 @@ Repo containing some plugins. [Get the mod engine here.](https://github.com/Nate
 
 This repo is used to host plugins and an index for the mod manager, you can download mods from here, or just use the manager
 
+If you would like your plugin to be added to this repo and the mod manager, open an issue.
+
 ## Plugin information
 
 Essentials - a plugin that adds various controls, functions and chat commands to the server, command prefix is / (e.g. "/help")
