@@ -1,0 +1,6 @@
+#Name&Desc&Download&Prefix
+Essentials&A plugin that adds various controls, functions and chat commands to the server&https://github.com/NateKomodo/WeNeedToModDeeper-Plugins/raw/master/Essentials.dll&/
+CivShopPlus&A plugin that allows you to re-roll shop loot&https://github.com/NateKomodo/WeNeedToModDeeper-Plugins/raw/master/CivShopPlus.dll&+
+InterspatialStore&A plugin that allows you to buy items directly from the sub and have it delivered via time traveler&https://github.com/NateKomodo/WeNeedToModDeeper-Plugins/raw/master/InterSpatialShop.dll&$
+HardcoreMode&A plugin that makes the game harder&https://github.com/NateKomodo/WeNeedToModDeeper-Plugins/raw/master/HardcoreMode.dll&.
+HealthChecker&A plugin for the people that work on the wiki; it dumps all the enemy objects and their health values to file&https://github.com/NateKomodo/WeNeedToModDeeper-Plugins/raw/master/HealthChecker.dll&!
