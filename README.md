@@ -1,9 +1,7 @@
 # WeNeedToModDeeper-Plugins
 Repo containing some plugins. [Get the mod engine here.](https://github.com/NateKomodo/WeNeedToModDeeper-installer/releases/latest) It is recommended you download the zip
 
-Once installed, drag and drop the plugin DLLs you wish to install into the plugins folder in your game install directory.
-
-In a future update a mod manager will be added to the installer
+This repo is used to host plugins and an index for the mod manager, you can download mods from here, or just use the manager
 
 ## Plugin information
 
