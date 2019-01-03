@@ -1,2 +1,2 @@
 #Plugin:dep1,dep2,dep3,...
-dummy:dep1,dep2,dep3
+Essentials:https://raw.githubusercontent.com/NateKomodo/WeNeedToModDeeper-Plugins/master/installer-version.txt,https://raw.githubusercontent.com/NateKomodo/WeNeedToModDeeper-Plugins/master/engine-version.txt
