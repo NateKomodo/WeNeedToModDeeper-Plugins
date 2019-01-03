@@ -1,2 +1,2 @@
-#Plugin:dep1,dep2,dep3,etc
+#Plugin:dep1,dep2,dep3,...
 dummy:dep1,dep2,dep3
