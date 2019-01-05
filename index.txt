@@ -1,6 +1,7 @@
 #This text file is used by the mod manager to get plugins, information about them, and download links, so more can be added without pushing an installer update
 #Name&Desc&Download&Prefix&Author
 Essentials&A plugin that adds various controls, functions and chat commands to the server&https://github.com/NateKomodo/WeNeedToModDeeper-Plugins/raw/master/Essentials.dll&/&NateKomodo
+CustomContentLoader&A plugin that allows you to create your own custom content and put it in the game, currently only supports enemies, documentation coming soon&https://github.com/NateKomodo/WeNeedToModDeeper-Plugins/raw/master/CustomContentLoader.dll&N/A&NateKomodo
 CivShopPlus&A plugin that allows you to re-roll shop loot&https://github.com/NateKomodo/WeNeedToModDeeper-Plugins/raw/master/CivShopPlus.dll&+&NateKomodo
 InterspatialStore&A plugin that allows you to buy items directly from the sub and have it delivered via time traveler&https://github.com/NateKomodo/WeNeedToModDeeper-Plugins/raw/master/InterSpatialShop.dll&$&NateKomodo
 HardcoreMode&A plugin that makes the game harder&https://github.com/NateKomodo/WeNeedToModDeeper-Plugins/raw/master/HardcoreMode.dll&.&NateKomodo
